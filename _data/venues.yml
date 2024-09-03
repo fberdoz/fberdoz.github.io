@@ -1,9 +1,7 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"DMLW":
+  url: https://neurips.cc/virtual/2022/workshop/50001
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
+"AAAI":
   color: "#009f36"
+  url: https://aaai.org

@@ -1,7 +1,11 @@
 "DMLW@NeurIPS":
   url: https://neurips.cc/virtual/2022/workshop/50001
-  color: "#00369f"
+  color: "#FF5F5D"
 
 "AAAI":
-  color: "#009f36"
+  color: "#3F7C85"
   url: https://aaai.org
+
+"NeurIPS":
+  color: "#00CCBF"
+  url: https://neurips.cc

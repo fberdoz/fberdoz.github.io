@@ -15,3 +15,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 My name is Frédéric Berdoz. I'm a PhD student at the Distributed Computing group at ETH Zürich under the supervision of [Prof. Dr. Roger Wattenhofer](https://disco.ethz.ch/members/wroger). 
+
+This is a test

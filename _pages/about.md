@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://disco.ethz.ch'>DIStributed COmputing group</a> (DISCO), ETH Zürich.
+subtitle: <a href='https://disco.ethz.ch'>Distributed Computing group</a> (Disco), ETH Zürich.
 
 profile:
   align: right
@@ -20,4 +20,4 @@ While I mainly focus on AI alignment, my interests also extend to understanding 
 Prior to joining ETH, I worked at the fast-growing startup [Neural Concept](https://www.neuralconcept.com) as a technical project manager,
 where we applied geometric deep learning to solve real-world engineering problems.
 
-I hold a Bachelor's degree in Mechanical engineering and a Master's degree in Computational Science and Engineering, both from EPFL. For the more curious, please find my CV [here](/assets/pdf/cv.pdf).
+I hold a Bachelor's degree in Mechanical engineering and a Master's degree in Computational Science and Engineering, both from EPFL. For more details, you can find my CV [here](/assets/pdf/cv.pdf).

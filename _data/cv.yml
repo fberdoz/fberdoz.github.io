@@ -40,10 +40,6 @@
         - Led efforts to drive the adoption of 3D deep learning in real-world engineering (CAD
           and CAE) applications.
         - Managed end-to-end project implementation, resulting in successful deals exceeding $100k CHF.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Research Assistant
       institution: Machine Learning and Optimization Lab, EPFL, Lausanne, Switzerland
       year: 08/2022 - 10/2022
@@ -59,7 +55,7 @@
           - Developed a machine learning model to predict the failure of satellite components.
 
 
-- title: Graants
+- title: Grants
   type: time_table
   contents:
     - year: 2018

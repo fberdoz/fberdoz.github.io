@@ -2,96 +2,72 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Frédéric Berdoz
     - name: Languages
-      value: English, German
+      value: French (native), English (Proficient), German (Intermediate)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computer Science
+      institution: ETH, Zürich, Switzerland
+      year: 1905 -
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Member of the Distributed Computing Group supervised by Prof. Dr. Roger Wattenhofer.
+        - Teaching assistant for multiple courses (tutoring, exam writing and grading, etc.).
+    - title: Master in Computational Science and Engineering
+      institution: EPFL, Lausanne, Switzerland
+      year: 2019 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Graduated with one of the highest GPA in the program (5.73/6).
+        - Master's thesis written at MIT on the topic of Decentralized Machine Learning (co-supervised by Prof. Ramesh Raskar and Prof. Martin Jaggi).
+        - Member of the Junior Enterprise EPFL, a student-run consulting company.
+        - Member of the EPFL Rocket Team, a student association building rockets for competitions.
+    - title: Bachelor in Mechanical Engineering
+      institution: EPFL, Lausanne, Switzerland
+      year: 2016 - 2019
+      description:
+        - Graduated with one of the highest GPA in the program (5.66/6).
+        - Full year exchange at McGill University, Montreal, Canada (most selective exchange).
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Technical Project Manager
+      institution: Neural Concept
+      year: 11/2022 - 07/2023
       description:
-        - Description 1.
-        - Description 2.
+        - Led efforts to drive the adoption of 3D deep learning in real-world engineering (CAD
+          and CAE) applications.
+        - Managed end-to-end project implementation, resulting in successful deals exceeding $100k CHF.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Research Assistant
+      institution: Machine Learning and Optimization Lab, EPFL, Lausanne, Switzerland
+      year: 08/2022 - 10/2022
       description:
-        - Description 1.
-        - Description 2.
+        - Research on the topic of decentralized and privacy-preserving machine learning.
+        - My work received the runner-up Best Paper Award at the NeurIPS 2022 workshop on Decentralization and
+          Trustworthy Machine Learning in Web3.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Data Scientist Intern
+      institution: Beyond Gravity (formerly Ruag Space), Zurich, Switzerland
+      year: 08/2021 - 01/2022
       description:
+          - Developed a machine learning model to predict the failure of satellite components.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
-- title: Open Source Projects
+- title: Graants
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2018
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - EPFL Mobility Scholarship for my academic exchange at McGill (2k CHF)
+    - year: 2022
       items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+        - Hasler Stiftung Scholarship for my visit at MIT (7k CHF)
+    - year: 2024
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Participation in the selective CIFAR DLRL Summer School, funded by SNF and CIFAR (5k CHF)

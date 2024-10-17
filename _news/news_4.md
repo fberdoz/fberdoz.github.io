@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper [Can an AI agent Safely Run a Government?](/assets/berdoz2024can.pdf) has been accepted at the NeurIPS 2024 conference! 🎉
+My paper [Can an AI agent Safely Run a Government?](/assets/pdf/berdoz2024can.pdf) has been accepted at the NeurIPS 2024 conference! 🎉

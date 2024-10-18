@@ -3,14 +3,14 @@
     "name": "Frédéric Berdoz",
     "label": "",
     "image": "",
-    "email": "",
+    "email": "frederic.berdoz@bluewin.ch",
     "phone": "",
     "url": "",
     "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
+      "city": "Zürich Area",
       "countryCode": "",
       "region": ""
     },
@@ -48,9 +48,7 @@
       "startDate": "2021-08-01",
       "endDate": "2022-01-31",
       "summary": "",
-      "highlights": [
-        "Developed a machine learning model to predict the failure of satellite components."
-      ]
+      "highlights": ["Developed a machine learning model to predict the failure of satellite components."]
     }
   ],
   "education": [
@@ -128,17 +126,17 @@
   "languages": [
     {
       "language": "French",
-      "fluency": "Native speaker",
+      "fluency": "Native",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Proficient",
+      "fluency": "Proficient (C1-C2)",
       "icon": ""
     },
     {
       "language": "German",
-      "fluency": "Intermediate",
+      "fluency": "Intermediate (B2)",
       "icon": ""
     }
   ]

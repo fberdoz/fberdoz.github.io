@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-02 12:00:00+0200
+date: 2024-07-08 12:00:00+0200
 inline: true
 related_posts: false
 ---
 
-Welcome to the new website!
+Starting the CIFAR DLRL Summer School at the University of Toronto! 🇨🇦📚

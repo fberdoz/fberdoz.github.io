@@ -10,13 +10,13 @@ email: fberdoz@ethz.ch
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The personal website of Frédéric Berdoz.
 footer_text:
-keywords: ethz, research, ai, artificial-intelligence, academic-website # add your own keywords or leave empty
+keywords: frédéric, frédéric-berdoz, frederic, frederic-ferdoz, berdoz, ethz, research, ai, artificial-intelligence, academic-website, personal-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon_fb.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://fberdoz.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: true # set to true if you want to display last updated in the footer
+last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -246,6 +246,7 @@ exclude:
   - _pages/repositories.md
   - _pages/dropdown.md
   - _pages/projects.md
+  - _pages/profiles.md
   - purgecss.config.js
   - README.md
   - readme_preview/
